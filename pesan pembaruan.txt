@@ -1,2 +1,4 @@
-Input suara AI Ultra dengannya Anda bisa mengetik dengan suara tanpa hambatan. Dengan menggunakan AI, pengetikan suara Anda menjadi lancar dan tanda baca bisa dikoreksi secara otomatis. Anda bisa mengaturnya di menu pengaturan. Ekstensi input suara AI Ultra sudah pembaruan dari server jarak jauh, Anda tidak perlu mengimpor ekstensi ulang karena jika nanti ada pembaruan, silakan Anda perbarui saja
-Saya berterima kasih kepada pengembang API, di mana saya bisa mengembangkan ekstensi input suara AI Ultra.
+Rilis input suara AI Ultra. Dengannya, Anda bisa mengetik dengan suara secara lancar dan tanpa hambatan.
+Dengan teknologi AI, pengetikan suara Anda menjadi lancar, menggunakan simbol yang benar, dan tulisan yang sesuai dengan apa yang Anda bicarakan.
+Anda bisa menyesuaikan pengaturannya, dan jika tidak ada kotak edit yang difokuskan, Anda akan diarahkan ke pengaturan input suara AI Ultra, di mana Anda bisa mencadangkan data dan mengatur fitur yang lain. Anda juga bisa mengustomisasi kunci API atau menggunakan API bawaan.
+Catatan: Jika senantiasa bermasalah, saya tidak akan membenarkan, karena api ini bukan milik saya. Terima kasih. Selamat menggunakan input suara AI Ultra.
